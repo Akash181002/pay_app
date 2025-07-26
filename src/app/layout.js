@@ -12,8 +12,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "About Yuvi",
-  description: "Yuvraj Singh Bio",
+  title: "About Akash",
+  description: "Akash Upadhyay Bio",
 };
 
 export default function RootLayout({ children }) {

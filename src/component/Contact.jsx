@@ -16,13 +16,13 @@ export default function ContactPage() {
 </a>
 
 
-        <a href="https://www.linkedin.com/in/yuvrajsingh-btech/" target="_blank" rel="noopener noreferrer" className="mx-2 md:mx-12">
+        <a href="https://www.linkedin.com/in/iakashhh" target="_blank" rel="noopener noreferrer" className="mx-2 md:mx-12">
           <FaLinkedin className="hover:text-blue-600 transition" />
         </a>
-        <a href="https://twitter.com/YuvrajS18286" target="_blank" rel="noopener noreferrer" className="mx-2 md:mx-12">
+        <a href="https://twitter.com/AkashUp86476791" target="_blank" rel="noopener noreferrer" className="mx-2 md:mx-12">
           <FaTwitter className="hover:text-blue-400 transition" />
         </a>
-        <a href="https://www.instagram.com/yuvsingh319/" target="_blank" rel="noopener noreferrer" className="mx-2 md:mx-12">
+        <a href="https://www.instagram.com/akashupadhyay055" target="_blank" rel="noopener noreferrer" className="mx-2 md:mx-12">
           <FaInstagram className="hover:text-pink-500 transition" />
         </a>
       </div>

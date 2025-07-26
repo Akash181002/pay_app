@@ -2,7 +2,7 @@
 import Book from "@/component/Book";
 import ContactPage from "@/component/Contact";
 import Education from "@/component/Education";
-import ExperiencePage from "@/component/Experince";
+
 import ProjectPage from "@/component/Project";
 import Image from "next/image";
 
@@ -39,7 +39,7 @@ export default function Home() {
         className="w-full flex justify-center items-center pt-2 pb-10"
       >
         <a
-          href="/YuvrajSingh_CV.pdf"
+          href="/Akash_upadhyay_resume.pdf"
           download
           className="bg-[#002970] text-white px-6 py-3 rounded-lg shadow-md hover:bg-blue-800 transition duration-300"
         >
@@ -49,7 +49,7 @@ export default function Home() {
        
      
       <Education/>
-      <ExperiencePage></ExperiencePage>
+      
       <ProjectPage></ProjectPage>
       <ContactPage></ContactPage>
     </div>

@@ -7,7 +7,7 @@ export default function EducationPage() {
     {/* Image Section */}
     <div className="w-full md:w-1/3 flex justify-center mb-4 md:mb-0">
       <Image
-        src="/nit-dgp-logo.png"
+        src="/sliet_logo.png"
         alt="Education Icon"
         width={100}
         height={100}
@@ -19,10 +19,10 @@ export default function EducationPage() {
     <div className="w-full md:w-2/3 md:pl-6 text-center md:text-center">
       <h2 className="text-xl font-bold text-[#002970] mb-2">Education</h2>
       <p className="text-[#002970] whitespace-pre-line text-sm leading-6">
-        {`B.Tech Electrical Engineering (2021–2025)
-  National Institute of Technology Durgapur
+        {`B.E Mechanical Engineering (2022–2026)
+  Sant Longowal Institute Of Engineering and Technology
   
-  - Cultural Fest Core Member: Recstacy 2023`}
+  - Cultural Fest Core Member: Madhuram 2024`}
       </p>
     </div>
   </div>

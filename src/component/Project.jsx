@@ -6,14 +6,16 @@ const projects = [
     title: "Payment Transfer Web App",
     icon: "/GitHubLogo.png",
     description: `Developed a full-stack Paytm clone simulating real-world payment workflows using modern web technologies. Implemented secure authentication with NextAuth.js supporting multiple providers, and designed a mock banking webhook system to simulate real-time fund transfers and asynchronous payment updates. The backend was built using Prisma ORM and PostgreSQL for robust data modeling and transaction history. The UI was styled with TailwindCSS to ensure a responsive, clean interface. A monorepo architecture with Turborepo was adopted to enhance modularity and developer experience. The app was deployed on a GCP e2 instance using Docker, with a complete CI/CD pipeline for automated build, test, and deployment.`,
-    live: "https://app1.yuvrajsingh.life",
-    code: "https://github.com/Yuv1810/Paytm-V2",
+    
   },
   {
-    title: "Studybot Web-App",
+    title: "Decentralized Banking Application",
     icon: "/GitHubLogo.png",
-    description: `Built a study assistant web application with a responsive frontend using Next.js, TypeScript, and TailwindCSS, backed by a robust Express.js and Prisma-powered backend. Integrated the LLaMA3 AI model (8B parameters) to enable natural language Q&A and contextual guidance for learners. Developed RESTful APIs to facilitate smooth client-server communication and real-time updates. Additionally, implemented a quiz module that allows users to take practice tests and track their performance.`,
-    code: "https://github.com/Yuv1810/Humanize_ai_project",
+    description: `Built a decentralized web apllication simlating a digital bank using DFINITY'S Internet Compter Protocol. 
+Implemented core banking functionality including deposit and withdrawal tracking with persistent state management
+ via smart canisters. Used Motoko to write backend canister logic and handled asset delivery via the Internet Computer platform.
+Developed a responsive UI using HTML/CSS and JavaScript, bundled with webpack. `,
+    
   },
 ];
 
