@@ -7,7 +7,7 @@ export default function ContactPage() {
       <h2 className="text-xl font-bold text-[#002970] mb-16">Contact Me</h2>
       <div className="flex gap-6 text-[#002970] text-2xl">
       <a
-  href="mailto:engyuvrajsingh@gmail.com"
+  href="mailto:akashupadhyay055@gmail.com"
   target="_blank"
   rel="noopener noreferrer"
   className="mx-2 md:mx-12"
