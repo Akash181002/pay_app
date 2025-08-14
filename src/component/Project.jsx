@@ -9,17 +9,15 @@ const projects = [
     and designed a mock banking webhook system to simulate real-time fund transfers and asynchronous payment updates. The backend was built using Prisma ORM and PostgreSQL for robust data modeling and transaction history.
      The UI was styled with TailwindCSS to ensure a responsive, clean interface. A monorepo architecture with Turborepo was adopted to enhance modularity and developer experience. The app was deployed on a GCP e2 instance
       using Docker, with a complete CI/CD pipeline for automated build, test, and deployment.`,
-      code: 'https://github.com/Akash181002/about_me.git',
       live: 'https://34.132.185.125/',
     
   },
   {
-    title: "Decentralized Banking Application",
+    title: "Decentralised Token App",
     icon: "/GitHubLogo.png",
-    description: `Built a decentralized web apllication simlating a digital bank using DFINITY'S Internet Compter Protocol. 
-Implemented core banking functionality including deposit and withdrawal tracking with persistent state management
- via smart canisters. Used Motoko to write backend canister logic and handled asset delivery via the Internet Computer platform.
-Developed a responsive UI using HTML/CSS and JavaScript, bundled with webpack. `,
+    description: `Designed and implemented a decentralized web application simulating a digital banking system using DFINITY’s Internet Computer Protocol. Developed smart canisters in Motoko to manage token creation,balance tracking, and secure transactions.
+     Integrated authentication with @dfinity/auth-client for user identity management and built a responsive frontend in React `,
+code: 'https://github.com/Akash181002/crypto_token.git'
     
   },
 ];

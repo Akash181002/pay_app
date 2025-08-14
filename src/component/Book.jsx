@@ -22,7 +22,7 @@ I'm deeply enthusiastic about building responsive, high-performance web applicat
       content: `Payment Transfer Web Application: \n\nFull-stack clone built with Next.js, TypeScript, NextAuth.js, Prisma, TailwindCSS, and Docker. Features secure auth, webhook simulation for real-time fund transfer, PostgreSQL database, Turborepo monorepo setup, and CI/CD deployment to GCP.  
 
 
-\n\nDecentralized Banking Application:\n\n React.js + JavaScript + Node.js, decentralised application simulating a digital bank using DFINITY's Internet Computer Protocol. Built with TailwindCSS for for a respnsive UI, used Motoko for canister logic .  
+\n\nDecentralized Token Application:\n\n React.js + JavaScript + Node.js, decentralized app for creating, transferring, and tracking tokens on DFINITY’s Internet Computer. Built with TailwindCSS for responsive UI and Motoko canisters for secure, scalable backend logic.  
 `,
     },
     
