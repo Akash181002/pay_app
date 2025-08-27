@@ -10,7 +10,7 @@ export default function Book() {
   const resumePages = [
     {
       title: "About Me",
-      content: `Hi, I'm Akash Upadhyay — a Passionate Web Developer and Final-Year Electrical Engineering Student.
+      content: `Hi, I'm Akash Upadhyay — a Passionate Web Developer and Final-Year Mechanical Engineering Student.
 I'm deeply enthusiastic about building responsive, high-performance web applications and diving into the world of Web3. With a strong foundation in both engineering and programming, I love turning ideas into interactive digital experiences. Whether it's creating seamless UIs, working with modern frameworks, or exploring blockchain technologies, I enjoy being at the forefront of innovation and learning something new every day.`,
     },
     {
